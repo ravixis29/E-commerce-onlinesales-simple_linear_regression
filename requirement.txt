@@ -1,0 +1,4 @@
+Jupyter Notebook with Anaconda Distribution
+Dataset
+Different Python Libraries(numpy,pandas,matplotlib,seaborn)
+Scikit learn library to train the model
